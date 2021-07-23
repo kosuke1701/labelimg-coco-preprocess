@@ -92,7 +92,7 @@ if __name__=="__main__":
         images.append({
             "file_name": image_base_fn,
             "height": info.height,
-            "width": info.height,
+            "width": info.width,
             "id": image_id
         })
 
